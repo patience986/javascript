@@ -1,0 +1,5 @@
+let name = "patience"
+let isapproved = "true"
+let firstname = "undefined"
+let lastname = "null"
+console.log = "hello world"
