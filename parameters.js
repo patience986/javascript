@@ -18,17 +18,17 @@ const sum2 = (x, y) =>
     x + y;
 console.log(sum2(2, 3))
 //multiply
-function product(m,g = 9.81) {
+function product(m, g = 9.81) {
     let weight = m * g
     return weight + "N";
 }
 console.log(product(6));
 
 
-        //array function to determine the valve of a stone in gravity
-        
-            
-        
+//array function to determine the valve of a stone in gravity
+
+
+
 
 
 
